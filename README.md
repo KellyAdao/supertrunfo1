@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# supertrunfo1
-=======
 # Super Trunfo em C
 
 Este é um projeto em C que permite o cadastro de duas cartas do Super Trunfo de Países. Cada carta contém informações sobre uma cidade, como o estado, código, nome, população, área, PIB e o número de pontos turísticos. O programa recebe os dados do usuário e os exibe de forma organizada e legível.
